@@ -2,7 +2,7 @@ package lavage;
 
 import java.io.*;
 
-public class Lavage {
+public class  Lavage {
 
 	public static void main(String[] args) {
 		// La ressource partagée
